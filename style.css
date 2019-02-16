@@ -94,11 +94,11 @@ footer{
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	-o-border-radius: 50px;
-	-ms-border-radius: 50px; 
+	-ms-border-radius: 50px;
 	border-radius: 50px;
 }
 
 a:link {color:#fff;}
 a:visited {color:#fff;}
 a:hover {color:#fff;}
-a:active {color:#fff;} 
+a:active {color:#fff;}
