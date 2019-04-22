@@ -43,7 +43,7 @@ header{
 }
 
 .container{
-    width: 700px;
+    width: 860px;
     margin:100px auto;
 }
 .contents{
@@ -101,3 +101,18 @@ a:link {color:#fff;}
 a:visited {color:#fff;}
 a:hover {color:#fff;}
 a:active {color:#fff;}
+
+dl{
+    display:flex;
+    flex-wrap: wrap;
+    border-top: none;
+  }
+  dt{
+    width: 25%;
+    box-sizing: border-box;
+  }
+  dd{
+    margin: 0;
+    width: 75%;
+    box-sizing: border-box;
+  }
