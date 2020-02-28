@@ -80,9 +80,12 @@ footer{
     margin-top: auto;
 }
 
+.footer-container{
+    display: flex;
+}
+
 .footer-logo{
-    float: right;
-    padding: 10px;
+    margin: 10px auto;
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
 }
